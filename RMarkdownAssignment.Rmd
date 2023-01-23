@@ -15,9 +15,9 @@ knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show!
 Reminder: There is a "Markdown Help" page available in RStudio. 
 
 
-## In-class Activity, Markdown
+# In-class Activity, Markdown
 
-Below the "Your work here" section header, do the following 3 things. To turn this in, knit the RMarkdown file, and zip and submit the html.  
+Create a new section with the title "Your work here", and beneath it, do the following 3 things. To turn this in, make sure you've committed and pushed, and turn in the link to this repository to the assignment on Blackboard.  
 
 1. Make a subsection called "Wise words". Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
@@ -30,5 +30,5 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 + A _list_ of things they have written or performed (remember to use the formatting markup for a list!).     
 
 
-Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
+Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
