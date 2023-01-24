@@ -1,5 +1,5 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
+title: 'RMarkdown:  In Class Assignment'
 author: "YOUR NAME HERE"
 date: "Data 2401"
 output: html_document
