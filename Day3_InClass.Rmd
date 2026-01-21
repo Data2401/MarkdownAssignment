@@ -42,7 +42,7 @@ Reminders:
 
 # Part 2: Code Chunks
 
-```{r}
+```{r echo=TRUE}
 2 + 2
 ```
 
